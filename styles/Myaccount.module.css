@@ -1,0 +1,11 @@
+.input{
+    display: block;
+    width: 100%;
+    height: 25px;
+    margin-bottom: 10px;
+    background-color: rgba(202, 197, 197, 0.466);
+    border: none;
+}
+.label{
+    font-size: 1.2rem;
+}

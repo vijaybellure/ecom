@@ -1,0 +1,19 @@
+.Footer{
+    text-align: center;
+    top: 120;
+    padding: 4px;
+    background-color: whitesmoke;
+    height: 20px;
+    margin-top: 150px;
+}
+.active{
+    color: red;
+    font-size: 1.3rem;
+    text-decoration: none;
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}

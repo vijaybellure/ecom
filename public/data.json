@@ -1,0 +1,267 @@
+{
+    "carouselItems": [
+      {
+        "id":1,
+        "imageSrc": "/images/redmi.png",
+        "imageAlt": "Redmi Note 10s",
+        "title": "Redmi Note 10s",
+        "summary": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus unde natus eius, sed modi omnis ipsum nihil a libero enim iusto, eaque laboriosam eligendi alias autem culpa repudiandae aliquam velit.",
+        "price":"$699.99"
+      },
+      {
+        "id":2,
+        "imageSrc": "/images/8t-green.png",
+        "imageAlt": "Oneplus 6 t",
+        "title": "Oneplus 6 t",
+        "summary": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus unde natus eius, sed modi omnis ipsum nihil a libero enim iusto, eaque laboriosam eligendi alias autem culpa repudiandae aliquam velit.",
+        "price":"$699.99"
+      },
+      {
+        "id":3,
+        "imageSrc": "/images/Apple-iPhone-11-PNG-Pic.png",
+        "imageAlt": "Iphone 13max pro",
+        "title": "Iphone 13max pro",
+        "summary": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus unde natus eius, sed modi omnis ipsum nihil a libero enim iusto, eaque laboriosam eligendi alias autem culpa repudiandae aliquam velit.",
+        "price":"$699.99"
+      }
+    ],
+    "SideBar":[
+        {
+            "Featured Item":{
+                "id":4,
+                "title":"Apple Iphone 6",
+                "summary":"The iPhone 6 and 6 Plus include larger 4.7 and 5.5 inches (120 and 140 mm) displays, a faster processor, upgraded cameras, improved LTE and Wi-Fi connectivity and support for a near field communications-based mobile payments offering. Apple Inc. 6: H 138.1 mm (5.44 in)",
+                "imageSrc":"/images/Apple-iPhone-11-PNG-Pic.png",
+                "price":"$699.99"
+            },
+            "Best Seller":{
+              "id":5,
+              "title":"OnePlus 9",
+              "summary":"The selfie camera is the same one used for the OnePlus 9 Pro, and it's decent but not great. The OnePlus 9 is a good smartphone in its own right, but hard to recommend when you have the Samsung Galaxy S20 FE 5G and OnePlus 8 Pro selling for around the same price.",
+              "imageSrc":"/images/onplus 9.png",
+              "price":"$699.99"
+            },
+            "Summer Discount":{
+              "id":6,
+              "title":"Realme 8",
+                "summary":"realme 8 features a powerful Helio G95 Gaming Processor. 2.05GHz high-frequency Cortex-A76 CPU comes with powerful ARM G76 GPU, delivering a gaming experience with smoothness and high image quality. The massive 5000mAh battery can keep the phone in standby for up to 40 days.",
+                "imageSrc":"/images/realme8.webp",
+                "price":"$699.99"
+            },
+            "Premium Product":{
+              "id":7,
+              "title":"Iphone 13max pro",
+                "summary":"The iPhone 13 Pro Max’s stellar cameras, 120Hz ProMotion display and longer battery life add up to a practically perfect phone in our testing. The charging could be faster and Touch ID would be nice, but overall this is a beast that can’t be beat.",
+                "imageSrc":"/images/iphone 13 pro max.png",
+                "price":"$699.99"
+            },
+            "Gift Idea":{
+              "id":8,
+              "title":"Redmi note 9",
+                "summary":"Redmi is a prominent smartphone brand in India. The reason behind Redmi's popularity is its ability to come up with innovative and diversified products at affordable prices.",
+                "imageSrc":"/images/redmi.png",
+                "price":"$699.99"
+            }
+        }
+    ],
+    "Products":[
+      {
+        "id":10,
+        "imageSrc":"/images/xbox-one-x.webp",
+        "summary":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus unde natus eius, sed modi omnis ipsum nihil a libero enim iusto, eaque laboriosam eligendi alias autem culpa repudiandae aliquam velit.",
+        "price":"$699.99",
+        "title":"Xbox One"
+      },
+      {
+        "id":9,
+        "title":"Samsung Galaxy S5",
+        "imageSrc":"/images/galaxy2f.png",
+        "summary":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus unde natus eius, sed modi omnis ipsum nihil a libero enim iusto, eaque laboriosam eligendi alias autem culpa repudiandae aliquam velit.",
+        "price":"$699.99"
+      },
+      {
+        "id":11,
+        "imageSrc":"/images/ps5a.png",
+        "summary":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus unde natus eius, sed modi omnis ipsum nihil a libero enim iusto, eaque laboriosam eligendi alias autem culpa repudiandae aliquam velit.",
+        "price":"$699.99",
+        "title":"Play Station 5"
+      },
+      {
+        "id":12,
+        "imageSrc":"/images/oneplus_6t.png",
+        "summary":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus unde natus eius, sed modi omnis ipsum nihil a libero enim iusto, eaque laboriosam eligendi alias autem culpa repudiandae aliquam velit.",
+        "price":"$699.99",
+        "title":"Oneplus 6t"
+      },
+      {
+        "id":13,
+        "imageSrc":"/images/sony.png",
+        "summary":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus unde natus eius, sed modi omnis ipsum nihil a libero enim iusto, eaque laboriosam eligendi alias autem culpa repudiandae aliquam velit.",
+        "price":"$699.99",
+        "title":"Sony Tv"
+      },
+      {
+        "id":14,
+        "imageSrc":"/images/suface.png",
+        "summary":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus unde natus eius, sed modi omnis ipsum nihil a libero enim iusto, eaque laboriosam eligendi alias autem culpa repudiandae aliquam velit.",
+        "price":"$699.99",
+        "title":"Microsoft Surface"
+      },
+      {
+        "id":15,
+        "imageSrc":"/images/iphone 13 pro max.png",
+        "summary":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus unde natus eius, sed modi omnis ipsum nihil a libero enim iusto, eaque laboriosam eligendi alias autem culpa repudiandae aliquam velit.",
+        "price":"$699.99",
+        "title":"IPhone 13 Pro Max"
+      },
+      {
+        "id":16,
+        "imageSrc":"/images/realme8.webp",
+        "summary":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus unde natus eius, sed modi omnis ipsum nihil a libero enim iusto, eaque laboriosam eligendi alias autem culpa repudiandae aliquam velit.",
+        "price":"$699.99",
+        "title":"Real me 8"
+      },
+      {
+        "id":17,
+        "imageSrc":"/images/onplus 9.png",
+        "summary":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus unde natus eius, sed modi omnis ipsum nihil a libero enim iusto, eaque laboriosam eligendi alias autem culpa repudiandae aliquam velit.",
+        "price":"$699.99",
+        "title":"One plus 9"
+      },
+      {
+        "id":18,
+        "imageSrc":"/images/redminote6.png",
+        "summary":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus unde natus eius, sed modi omnis ipsum nihil a libero enim iusto, eaque laboriosam eligendi alias autem culpa repudiandae aliquam velit.",
+        "price":"$699.99",
+        "title":"Redmi Note 6"
+      },
+      {
+        "id":19,
+        "imageSrc":"/images/Apple-iPhone-11-PNG-Pic.png",
+        "summary":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus unde natus eius, sed modi omnis ipsum nihil a libero enim iusto, eaque laboriosam eligendi alias autem culpa repudiandae aliquam velit.",
+        "price":"$699.99",
+        "title":"IPhone 11"
+      }
+    ],
+    "whatsnew":[
+      {
+        "id":20,
+        "title":"Galaxy Z Flip 5",
+        "imageSrc":"/images/galaxy-flip.jpg",
+        "summary":"A perfect fit — both in life and your pocket. A brilliant Flex Window you can customize. A camera that captures selfies from edgy angles. Plus, a battery that keeps up.",
+        "price":"$699.99"
+      },
+      {
+        "id":21,
+        "title":"Iphone 14 pro",
+        "imageSrc":"/images/widthiphone.jpg",
+        "summary":"A perfect fit — both in life and your pocket. A brilliant Flex Window you can customize. A camera that captures selfies from edgy angles. Plus, a battery that keeps up.",
+        "price":"$699.99"
+      }
+    ],
+    "credentials":[
+      {
+        "vijaykumar@gmail.com":{
+          "name":"vijay",
+          "email":"vijaykumar@gmail.com",
+          "mobile":"6363209461",
+          "Address":"Nallurhalli whitefiled",
+          "city":"Bangalore",
+          "state":"Karnataka",
+          "Zip":"560013",
+          "pass":"vijay"
+        },
+        "sandeep@gmail.com":{
+          "name":"sandeep",
+          "email":"sandeep@gmail.com",
+          "mobile":"8798345659",
+          "Address":"Kundanhalli whitefiled",
+          "city":"Bangalore",
+          "state":"Karnataka",
+          "Zip":"560014",
+          "pass":"sandeep"
+        },
+        "yashwant@gmail.com":{
+          "name":"yashwant",
+          "email":"yashwant@gmail.com",
+          "mobile":"9283746501",
+          "Address":"Shivajinagar ",
+          "city":" Bangalore",
+          "state":"Karnataka",
+          "Zip":"569089",
+          "pass":"yashwant"
+        },
+        "rakshit@gmail.com":{
+          "name":"rakshit",
+          "email":"rakshit@gmail.com",
+          "mobile":"6457382902",
+          "Address":"Kundanhalli whitefiled",
+          "city":"Bangalore",
+          "state":"Karnataka",
+          "Zip":"560014",
+          "pass":"rakshit"
+        },
+        "shrikant@gmail.com":{
+          "name":"shrikant",
+          "email":"shrikant@gmail.com",
+          "mobile":"8327564902",
+          "Address":"near satyasai hospital Bangalore",
+          "city":"Bangalore",
+          "state":"Karnataka",
+          "Zip":"560012",
+          "pass":"shrikant"
+        },
+        "dattaguru@gmail.com":{
+          "name":"guru",
+          "email":"dattaguru@gmail.com",
+          "mobile":"6574839201",
+          "Address":"acs layout",
+          "city":"Bangalore",
+          "state":"Karnataka",
+          "Zip":"564738",
+          "pass":"guru"
+        },
+        "mohit@gmail.com":{
+          "name":"mohit",
+          "email":"mohit@gmail.com",
+          "mobile":"9878685465",
+          "Address":"whitefield",
+          "city":"Bangalore",
+          "state":"Karnataka",
+          "Zip":"567893",
+          "pass":"mohit"
+        },
+        "satish@gmail.com":{
+          "name":"satish",
+          "email":"satish@gmail.com",
+          "mobile":"9897685635",
+          "Address":"Nallurhalli whitefiled",
+          "city":"Bangalore",
+          "state":"Karnataka",
+          "Zip":"560014",
+          "pass":"satish"
+        },
+        "ukesh@gmail.com":{
+          "name":"ukesh",
+          "email":"ukesh@gmail.com",
+          "mobile":"7890654323",
+          "Address":"Nallurhalli whitefiled",
+          "city":"Bangalore",
+          "state":"Karnataka",
+          "Zip":"560014",
+          "pass":"ukesh"
+        },
+        "chaitanya@gmail.com":{
+          "name":"chaitanya",
+          "email":"chaitanya@gmail.com",
+          "mobile":"7867904555",
+          "Address":"Kundanhalli whitefiled",
+          "city":"Bangalore",
+          "state":"Karnataka",
+          "Zip":"560023",
+          "pass":"chaitanya"
+        }
+      }
+    ]
+  }
+  

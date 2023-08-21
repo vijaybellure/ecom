@@ -1,0 +1,33 @@
+.whatsnew{
+    background-color: #f2f2f2;
+    padding: 20px;
+    width: 96%;
+    margin-left: 5px;
+    margin: 10px;
+}
+.wnul{
+    display: flex;
+    list-style: none;
+    transition: display 6s;
+}
+
+.wnimg{
+    height: 400px;
+    width: 350px;
+
+}
+.h1{
+    font-size: 4rem;
+    margin-right: 200px;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.126);
+    color:rgba(0, 0, 0, 0.763);
+    font-family:'sans serif';
+}
+
+.wnspn{
+    width: 450px;
+    display: flex;
+    margin-left: 400px;
+    color: #555;
+    font-family:'sans serif';
+}
